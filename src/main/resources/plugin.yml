@@ -1,0 +1,7 @@
+name: Buildplots
+version: '${version}'
+main: com.lheinzl.buildplots.Buildplots
+api-version: 1.18
+authors: [ LukasHeinzl ]
+description: Plugin that creates build plots for players. Can be used for building competitions.
+website: https://lheinzl.com
